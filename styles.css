@@ -1,0 +1,16 @@
+*{margin:0;
+padding:0;
+box-sizing:border-box;}
+body{background-color: hsl(47, 88%, 63%);font-size:16px;font-family: 'Figtree' }
+.container{box-shadow: 8px 8px black; width:370px; height:500px; background-color:hsl(0, 0%, 100%);margin:auto; padding:20px; margin-top:80px; border-radius:5%;}
+.container:hover{box-shadow: 12px 12px black;}
+.imge{ width:100%; height:100%; border-radius:15px;}
+.content{width:100%; height:60%;  padding:10px;}
+p{margin:15px 0;}
+h3{font-weight:800;font-size:1.5rem; }
+.span{width:25%; height:30px; background-color:hsl(47, 88%, 63%); padding:6px; border-radius:5px;}
+h3:hover{color:hsl(47, 88%, 63%); cursor:pointer;}
+.sub,.context{font-size:0.85rem;}
+.context{color:hsl(0, 0%, 50%);}
+.name{width:60%; height:50px; padding:2px;display:flex; flex-direction:right;font-size:1rem;}
+.Gerg{width:45px; height:45px;margin-right:10px;}
